@@ -1,21 +1,54 @@
-👋 Hey, I’m John Russell!
-I’m a Project Manager turned Software Engineer, currently pursuing my Master of Computer Science at Clemson University. I have a strong passion for iOS development, constantly building and experimenting with new apps using Swift and SwiftUI.
+<h1 align="center">Hi there 👋, I'm John Russell</h1>
+<h3 align="center">Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
-🚀 What I’m Into:
-📱 iOS Development – Crafting sleek and efficient apps with Swift, UIKit, and SwiftUI.
-🖥️ Tech Enthusiast – Love building, diagnosing, and optimizing computer systems.
-🚗 Cars & Boats – Whether it's classic cars or boats, I enjoy the mechanics and thrill of both.
-🎮 Video Games – Big fan of gaming, from strategy to open-world adventures.
-🏗️ Project Management – Years of experience managing large-scale projects, now applying that mindset to software development.
-🔥 Current Focus
-I’m sharpening my skills in iOS app development, exploring AI integration in mobile apps, and working on personal projects to refine my coding abilities.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnrussell&label=Profile%20views&color=0e75b6&style=flat" alt="johnrussell" />
+</p>
 
-📫 Let’s Connect!
-Check out my repositories or reach out if you’re into iOS development, gaming, or just geeking out about tech!
+---
 
+### 👨‍💻 About Me:
 
+- 🚀 Currently pursuing **MCS (Master of Computer Science)** at **Clemson University**  
+- 💼 Project Manager at **Coon Restoration**, managing restoration projects  
+- 📱 Learning & building **iOS Applications** (Swift, SwiftUI)  
+- 🖥️ Completed **Google Cybersecurity Certificate**  
+- 🛠️ Passionate about **Software Engineering, Cybersecurity, & System Integration**  
+- 🎯 Always exploring new tech & working on side projects
 
-<!---
-Mullign/Mullign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnrussell&show_icons=true&theme=tokyonight" alt="johnrussell stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnrussell&theme=tokyonight" alt="johnrussell streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnrussell"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/johnrussell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
