@@ -23,36 +23,38 @@
 
 - 🎓 Master of Computer Science candidate at Clemson University  
 - 💼 Web Developer (Contract) building a production aviation application  
-- 💻 Focused on full-stack development using modern web technologies  
+- 💻 Focused on full-stack development with modern web technologies  
 - 🛠 Background in project management with real-world problem solving  
-- 🚀 Passionate about building scalable and user-focused applications  
+- 🚀 Passionate about building scalable, user-focused applications  
+- 🎯 Actively seeking Software Engineering / Web Development roles  
 
 ---
 
 ### 🚧 Currently Building
 
-- ✈️ **Aviation Web Application**  
-  Production-level frontend built with React, Next.js, and Tailwind CSS  
-  Focused on performance, scalability, and clean UI architecture  
+- ✈️ **Aviation Web Application** *(Production)*  
+  Developing a scalable frontend using React, Next.js, and Tailwind CSS  
+  Focused on performance, usability, and clean architecture  
 
 - 🔧 **Tech-N-Rescue**  
-  Supporting real-world field operations through system deployment and communication tools  
+  Real-world system supporting search and rescue operations through communication and field technology  
   👉 https://github.com/Mullign/Tech-N-Rescue  
 
 - 🌐 **Portfolio Website**  
-  Full-stack site built with Next.js focused on performance and SEO  
+  Full-stack site built with Next.js, focused on performance and SEO  
+  👉 (add your live link here)
 
 ---
 
 ### 🥇 Featured Project
 
 - 🔧 **Tech-N-Rescue**  
-  Real-world system supporting search and rescue operations through communication infrastructure and field-deployed technology  
+  Real-world system designed to support search and rescue operations through reliable communication infrastructure and field-deployed technology  
 
   **Highlights:**
   - Configured Linux and Windows environments for field reliability  
   - Deployed communication systems for real-time operational use  
-  - Supported system performance across distributed environments  
+  - Supported distributed systems in real-world conditions  
 
   👉 https://github.com/Mullign/Tech-N-Rescue  
 
@@ -110,7 +112,7 @@
 ### ⚡ What I'm Focused On
 
 - Building production-ready full-stack applications  
-- Strengthening frontend architecture and performance  
+- Improving frontend performance and scalability  
 - Applying real-world problem solving to software systems  
 
 ---
