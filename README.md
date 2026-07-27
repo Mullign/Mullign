@@ -34,7 +34,8 @@
 
 - ✈️ **Aviation Web Application** *(Production)*  
   Developing a scalable frontend using React, Next.js, and Tailwind CSS  
-  Focused on performance, usability, and clean architecture  
+  Focused on performance, usability, and clean architecture
+  👉 https://pitotshields.com/
 
 - 🔧 **Tech-N-Rescue**  
   Real-world system supporting search and rescue operations through communication and field technology  
